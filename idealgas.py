@@ -7,8 +7,8 @@ from itertools import combinations
 import time
 from scipy.stats import norm
 
-HT = 400
-WD = 600 
+HT = 600
+WD = 800 
 NUM = 200
 SIZE = 2
 COLOR = 'black'
